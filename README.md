@@ -112,4 +112,3 @@ eyeTracking.init({
 
 ## License | 许可证 | ライセンス
 MIT License. 無保証。自由に改変・再配布可能。
-```
